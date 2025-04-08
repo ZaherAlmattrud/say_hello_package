@@ -1,0 +1,19 @@
+{
+    "name": "zaheralmattrud/say_hello_package",
+    "description": "a simple and lightweight PHP library that allows developers to easily generate personalized greeting messages. It can be integrated into any Laravel or PHP project to greet users with their name in a custom message. This library provides a quick and flexible way to improve user interaction by adding friendly and personalized greetings",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zaheralmattrud\\SayHelloPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ZaherAlmattrud",
+            "email": "zaheralmattrud@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
